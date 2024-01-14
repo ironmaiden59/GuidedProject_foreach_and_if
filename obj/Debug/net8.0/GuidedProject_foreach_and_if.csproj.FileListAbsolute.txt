@@ -1,0 +1,14 @@
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\bin\Debug\net8.0\GuidedProject_foreach_and_if.exe
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\bin\Debug\net8.0\GuidedProject_foreach_and_if.deps.json
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\bin\Debug\net8.0\GuidedProject_foreach_and_if.runtimeconfig.json
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\bin\Debug\net8.0\GuidedProject_foreach_and_if.dll
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\bin\Debug\net8.0\GuidedProject_foreach_and_if.pdb
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.AssemblyInfoInputs.cache
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.AssemblyInfo.cs
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.csproj.CoreCompileInputs.cache
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.dll
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\refint\GuidedProject_foreach_and_if.dll
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.pdb
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\GuidedProject_foreach_and_if.genruntimeconfig.cache
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\obj\Debug\net8.0\ref\GuidedProject_foreach_and_if.dll
