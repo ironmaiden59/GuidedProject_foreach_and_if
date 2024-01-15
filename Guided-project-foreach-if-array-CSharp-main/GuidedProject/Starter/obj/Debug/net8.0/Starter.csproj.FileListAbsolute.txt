@@ -1,0 +1,15 @@
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\C# Learn\CsharpProjects\GuidedProject_foreach_and_if\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
